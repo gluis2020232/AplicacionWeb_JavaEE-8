@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#kinal-header{
+    background-color: #23376d;
+    color: #ffffff;
+    padding: 15px;
+    text-align: center;
+}
+
+#control-footer{
+    background-color: #B1F1F5;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-size: 20px;
+}
+nav ul li a {
+    text-decoration: none; 
+    font-size: 18px;
+    color: #7d0a42;
+}
+
+#contenido{
+    padding: 20px;
+
+}
+.descripcion{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin: 15px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+#kinal-img-principal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#contenido {
+    padding: 20px;
+}
+
+.descripcion {
+    font-size:  20px;
+    font-style: bold;
+    font-weight: bold;
+    text-align: center;
+    margin: 15px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
